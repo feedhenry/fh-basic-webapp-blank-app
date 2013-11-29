@@ -2,7 +2,7 @@
   "name": "Blank Basic Web App",
   "type": "webapp_basic",
   "repoUrl": "https://github.com/feedhenry/fh-basic-webapp-blank-app.git",
-  "repoBranch": "refs/heads/5202-ngui-template-configs",
+  "repoBranch": "refs/heads/master",
   "icon": "icon-edit",
   "category": "Blank Apps"
 }
