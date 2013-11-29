@@ -3,6 +3,6 @@
   "type": "webapp_basic",
   "repoUrl": "https://github.com/feedhenry/fh-basic-webapp-blank-app.git",
   "repoBranch": "refs/heads/master",
-  "icon": "icon-edit",
+  "icon": "icon-globe",
   "category": "Blank Apps"
 }
