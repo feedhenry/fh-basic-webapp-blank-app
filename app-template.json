@@ -2,7 +2,7 @@
   "id": "blank_basic_webapp",
   "name": "Blank Basic Web App",
   "type": "webapp_basic",
-  "repoUrl": "https://github.com/feedhenry/fh-basic-webapp-blank-app.git",
+  "repoUrl": "git://github.com/feedhenry/fh-basic-webapp-blank-app.git",
   "repoBranch": "refs/heads/master",
   "icon": "icon-globe",
   "category": "Blank Apps"
