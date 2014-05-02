@@ -1,9 +1,0 @@
-{
-  "id": "blank_basic_webapp",
-  "name": "Blank Basic Web App",
-  "type": "webapp_basic",
-  "repoUrl": "git://github.com/feedhenry/fh-basic-webapp-blank-app.git",
-  "repoBranch": "refs/heads/6066-connection-bugfixing",
-  "icon": "icon-globe",
-  "category": "Blank Apps"
-}
